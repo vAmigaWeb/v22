@@ -1,6 +1,6 @@
 {
-  "name": "vAmigaWeb",
-  "short_name": "vAmigaWeb",
+  "name": "vAmigaWebV22",
+  "short_name": "vAmigaWebV22",
   "start_url": "/v22/",
   "scope": ".",
   "display": "fullscreen",
