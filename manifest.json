@@ -1,7 +1,7 @@
 {
   "name": "vAmigaWeb",
   "short_name": "vAmigaWeb",
-  "start_url": "/",
+  "start_url": "/v22/",
   "scope": ".",
   "display": "fullscreen",
   "background_color": "black",
